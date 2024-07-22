@@ -6,3 +6,8 @@
 
 ***
 <img src="./img/components.png" width="75%">
+
+***
+
+Simple Demo: [CreditScoring.ipynb](CreditScoring.ipynb)
+
