@@ -1,4 +1,4 @@
-# CrediT Card Default Detection with GenAI
+# Credit Card Default Detection with GenAI
 
-
+![構成](./img/components.png)
 
