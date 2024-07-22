@@ -2,5 +2,5 @@
 
 ***
 
-与信判定:[creditcard_default](./creditcard_default)
+与信判定: [creditcard_default](./creditcard_default)
 
