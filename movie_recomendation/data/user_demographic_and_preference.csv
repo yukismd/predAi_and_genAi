@@ -1,0 +1,16 @@
+﻿userId,user_gender,user_generation,genre_Action,genre_Adventure,genre_Animation,genre_Children,genre_Comedy,genre_Crime,genre_Drama,genre_Fantasy,genre_Horror,genre_IMAX,genre_Mystery,genre_Romance,genre_Sci-Fi,genre_Thriller,genre_War
+10001,F,Young,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+10002,F,Middle,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+10003,M,Young,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+10004,M,Young,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+10005,M,Middle,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+10006,M,Senior,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+10007,M,Middle,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+10008,F,Young,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+10009,M,Senior,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+10010,M,Young,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+10011,F,Young,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+10012,M,Middle,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+10013,M,Senior,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+10014,M,Senior,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+10015,M,Senior,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
