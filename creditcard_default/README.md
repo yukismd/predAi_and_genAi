@@ -5,9 +5,6 @@
 - 生成AI: 予測AIによる推論結果の解釈
 
 ***
-<img src="./img/components.png" width="75%">
-
-***
 
 Simple Demo: [CreditScoring.ipynb](CreditScoring.ipynb)
 
