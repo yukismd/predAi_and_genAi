@@ -6,5 +6,5 @@
 
 ***
 
-Simple Demo: [CreditScoring.ipynb](CreditScoring.ipynb)
+Demo: [CreditScoring.ipynb](CreditScoring.ipynb)
 
