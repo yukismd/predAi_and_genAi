@@ -6,7 +6,7 @@
 
 ***
 
-Demo: [CreditScoring.ipynb](CreditScoring.ipynb)
+Demo Notebook: [CreditScoring.ipynb](CreditScoring.ipynb)
 
 ***
 #### データ
