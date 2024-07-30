@@ -9,3 +9,18 @@
 
 Demo: [JobDb_Search.ipynb](JobDb_Search.ipynb)
 
+***
+#### データ
+
+生成AI
+- RAG用データ: [data/resume_0106.docx](data/resume_0106.docx)
+    - 職務経歴書
+
+予測AI
+- 学習用データ： [data/job_database_wCategory.csv](data/job_database_wCategory.csv)
+    - XXXXX
+- 検索対象の仕事リスト: [data/job_database.csv](data/job_database.csv)
+    - XXXXX
+- 検索対象の仕事リストのEmbedding Table: [data/job_embeddings.csv](data/job_embeddings.csv)
+　　　 　　　- XXXXX
+
