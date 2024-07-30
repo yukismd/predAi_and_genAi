@@ -22,5 +22,4 @@ Demo: [JobDb_Search.ipynb](JobDb_Search.ipynb)
 - 検索対象の仕事リスト: [data/job_database.csv](data/job_database.csv)
     - XXXXX
 - 検索対象の仕事リストのEmbedding Table: [data/job_embeddings.csv](data/job_embeddings.csv)
-　　　 　　　- XXXXX
-
+    - XXXXX
