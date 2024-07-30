@@ -9,6 +9,7 @@
 Demo: [CreditScoring.ipynb](CreditScoring.ipynb)
 
 ***
+#### データ
 
 予測AI
 - 学習用データ： https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/sample_data/UCI_CreditCard/UCI_Credit_Card3.csv
