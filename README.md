@@ -7,4 +7,4 @@
 - 映画の推薦（レコメンデーション）: [movie_recomendation](./movie_recomendation)
 - ジョブマッチング/検索: [job_db_search](./job_db_search)
 
-ドキュメント: [credit scoring pred+gen v240730.pdf](credit scoring pred+gen v240730.pdf)
+ドキュメント: [pred-and-gen_v240730.pdf](./pred-and-gen_v240730.pdf)
