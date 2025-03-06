@@ -1,4 +1,4 @@
-# 予測AI(Predictive AI) + 生成AI(Generative AI) ユースケース
+# 予測AI(Predictive AI) ＆ 生成AI(Generative AI) ユースケース
 
 ### 予測AIのユースケースを生成AIで強化する
 
